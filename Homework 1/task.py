@@ -1,0 +1,1 @@
+print('Homework 1 done!\nHah, so easy!')
