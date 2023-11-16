@@ -1,0 +1,1 @@
+print('That, my friend, was a walk in the park. Almost felt like I was cruising down an open road in a vintage car, wind in my hair. Too easy, too smooth, just the way I like it.')
